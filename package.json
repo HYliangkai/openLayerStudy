@@ -1,0 +1,21 @@
+{
+  "name": "openLayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "parcel index.html --lazy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "ol": "^9.0.0",
+    "proj4": "^2.10.0",
+    "typescript": "^5.4.2"
+  }
+}

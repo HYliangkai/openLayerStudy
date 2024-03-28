@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "jsxImportSource": "preact",
+    "isolatedModules": true,
+    "lib": ["ESNext", "ES2023", "DOM"],
+    "downlevelIteration": true
+  }
+}
